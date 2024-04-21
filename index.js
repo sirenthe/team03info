@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
     prevButton.innerHTML = '<i class="fas fa-chevron-left"></i>';
     prevButton.addEventListener('click', prev);
 
-  
+  //ejfsjjsdfkjsd
     nextButton.style.position = 'absolute';
     nextButton.style.top = '50%';
     nextButton.style.right = '10px';
